@@ -6,14 +6,8 @@ public class player : MonoBehaviour
 {
     #region Regulars variables
     [SerializeField] float speed;
-    [SerializeField] float dashSpeed;
     [SerializeField] float jumpForce;
-    [SerializeField] float cooldownDash;
-    [SerializeField] float dashDuration;
     bool canJump;
-    bool CanDash;
-    bool faceLeft;
-    float seg;
     #endregion
 
 
