@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class politico : MonoBehaviour
+public class player : MonoBehaviour
 {
     [SerializeField] float speed;
 
